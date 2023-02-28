@@ -39,26 +39,26 @@ Utilisation : <img height="30" src="https://i31.servimg.com/u/f31/13/52/99/79/lo
 
 Aperçu :
 
-<div align="center"><img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d10.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d10.jpg"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d12.png"></div>
+<div align="center"><img height="150" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d10.png"> <img height="150" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d11.png"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d10.jpg"> <img height="300" src="https://i31.servimg.com/u/f31/13/52/99/79/site_d12.png"></div>
 
 ---
 
 ## :gear: Les axes d'amélioration du projet <a name = "specification"></a>
 
-- Axe d'amélioration :
+Les axes d'amélioration que j'ai proposée :
 
-  - définir l'attribut "lang" sur "fr".
-  - définir les attributs "title" des pages.
-  - mauvaise utilisation des balise "meta".
-  - annuaire dans le footer néfaste pour l'expérience utilisateur ainsi que pour le SEO, il possede :
-    - des liens non fonctionnel et/ou sans rapport avec l'activité du site.
-    - un manque d'optimisation selon les pages et les plateformes utiisé.
-  - Sémantique HTML non optimisé.
-  - utilisation de black hat dans le code.
-  - utilisation de texte en format image, donc nuisible pour l'accessibilité et le SEO.
-  - aucun description sur les image du site internet.
-  - contraste et taille des texte problématique.
-  - des image non optimisé, ce qui provoque une perte de performance et d'experience utilisateur.
+- définir l'attribut "lang" sur "fr".
+- définir les attributs "title" des pages.
+- mauvaise utilisation des balise "meta".
+- annuaire dans le footer néfaste pour l'expérience utilisateur ainsi que pour le SEO, il possède :
+  - des liens non fonctionnel et/ou sans rapport avec l'activité du site.
+  - un manque d'optimisation selon les pages et les plateformes utilisé.
+- Sémantique HTML non optimisé.
+- utilisation de black hat dans le code.
+- utilisation de texte en format image, donc nuisible pour l'accessibilité et le SEO.
+- aucun description sur les images du site internet.
+- contraste et taille des textes problématiques.
+- des images non optimisé, ce qui provoque une perte de performance et d'expériences utilisateur.
 
 ---
 
@@ -68,6 +68,6 @@ Pour voir les modifications effectuer, rendez-vous sur les liens suivant :
 
 Lien du rapport établie sur des pistes d'améliorations : [Rapport d'axe d'amélioration](https://drive.google.com/file/d/1nsx-KxDRQk3YTt3E-iGQbsbZXRxyjidV/view?usp=sharing)
 
-Lien vers le site après l'amélioration : [Rendu du Site aprés modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
+Lien Git Hub vers le site après l'amélioration : [Lien Git Hub du Site après modification de "La Panthere"](https://github.com/SheppardShepp/Starting-website-2-ameliore)
 
-Lien GitHub vers le site après l'amélioration : [Lien GitHub du Site aprés modification de "La Panthere"](https://github.com/SheppardShepp/Starting-website-2-ameliore)
+Lien vers le site après l'amélioration : [Rendu du Site après modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
