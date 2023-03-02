@@ -56,7 +56,7 @@ Les axes d'amélioration que j'ai proposée :
 
 - définir l'attribut "lang" sur "fr".
 - définir les attributs "title" des pages.
-- mauvaise utilisation des balise "meta".
+- mauvaise utilisation des balises "meta".
 - annuaire dans le footer néfaste pour l'expérience utilisateur ainsi que pour le SEO, il possède :
   - des liens non fonctionnel et/ou sans rapport avec l'activité du site.
   - un manque d'optimisation selon les pages et les plateformes utilisé.
@@ -66,6 +66,11 @@ Les axes d'amélioration que j'ai proposée :
 - aucun description sur les images du site internet.
 - contraste et taille des textes problématiques.
 - des images non optimisé, ce qui provoque une perte de performance et d'expériences utilisateur.
+- pas de lien Google Analytics (pour un meilleurs suivie du site et de sa fréquentation)
+- optimisation des fichiers JavaScript (pour un gain de performance)
+- optimisation des fichiers CSS (pour un gain de performance)
+- absence de l'utilisation d'un cache (pour un gain de performance)
+- présence d'erreurs au validateur W3C sur les fichier HTML ET CSS
 
 ---
 
@@ -73,8 +78,6 @@ Les axes d'amélioration que j'ai proposée :
 
 Pour voir les modifications effectuer, rendez-vous sur les liens suivant :
 
-Lien du rapport établie sur des pistes d'améliorations : [Rapport d'axe d'amélioration](https://drive.google.com/file/d/1nsx-KxDRQk3YTt3E-iGQbsbZXRxyjidV/view?usp=sharing)
+Lien du rapport établie sur des pistes d'améliorations : [Rapport d'analyse SEO](https://drive.google.com/file/d/16NprypFQxXN9gpwS81hh7HmUJdgQXdHY/view?usp=sharing)
 
 Lien Git Hub vers le site après l'amélioration : [Lien Git Hub du Site après modification de "La Panthere"](https://github.com/SheppardShepp/Starting-website-2-ameliore)
-
-Lien vers le site après l'amélioration : [Rendu du Site après modification de "La Panthere"](https://sheppardshepp.github.io/Starting-website-2-ameliore/)
